@@ -51,5 +51,5 @@ To use:
   year must be in yyyy format
   month must be in mm format
   
-  A sample input file, accountactivity(2).csv, is provided in the git repository.
+  A sample input file, accountactivity(1).csv, is provided in the git repository.
   A sample output of the pi chart output is available in the git repository (sample_pi.png).
